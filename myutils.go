@@ -1,4 +1,4 @@
-package main
+package myutils
 
 func CheckNillError(err error) {
 	if err != nil {
